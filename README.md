@@ -1,1 +1,1 @@
-(https://metrics.lecoq.io/pedrofalconi-ux?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0)
+![Metrics](https://metrics.lecoq.io/pedrofalconi-ux?template=classic&languages=1&languages.limit=6&languages.sections=most-used)
